@@ -1,0 +1,43 @@
+2019 Space Apps Through-Hole Badge
+Build of Materials
+
+Because some of these components are really small, it would be in everyone's financial interest to try and source these parts as a team, because you only need a few of each.
+The links below are suggestions and you may be able to find a better deal somewhere else.
+
+1x Custom Printed Circuit Board (PCB).  
+Provided at Space Apps
+
+1x ATTINY 85-20PU Microcontroller 8 pin DIP (comes in 5-pack): 
+https://www.amazon.com/gp/product/B06W9JBJJ6
+
+1x SSD1306 128x32 pixel i2c OLED Display (comes in 2-pack) 
+https://www.amazon.com/gp/product/B07WHVYWXS/
+
+1x 3xAAA Enclosed Battery Case (comes in 6 pack) 
+https://www.amazon.com/gp/product/B07M8RV9DC
+
+1x  Photoresistor (Light Sensor) 5 mm GM5539 5539 (30 pack) 
+https://www.amazon.com/dp/B01N7V536K
+
+1x Slide Switch 3 Pin 2 Position SPDT with PCB Panel for Arduino 0.5 Amp, 50V DC, 2 mm (50 pack) 
+https://www.amazon.com/gp/product/B079D58DB3/
+
+10x WS2812B- 5050 LIGHT EMITTING DIODE (LED) RED/GREEN/BLUE SMD (NEOPIXELS)
+https://www.amazon.com/ACROBOTIC-10-Pack-WS2812B-Arduino-Raspberry/dp/B07RYP2WVY/
+https://www.amazon.com/Led-World-WS2812B-Individually-Addressable/dp/B00YC7ZXRM
+https://www.adafruit.com/product/1655
+https://www.adafruit.com/product/3094
+
+1x 8 pin Female Header to Flash ATTINY chip 
+https://www.amazon.com/Glarks-Straight-Connector-Assortment-Prototype/dp/B076GZXW3Z
+
+1x 470 OHM 1/4 Watt resistor
+https://www.amazon.com/AUSTOR-Resistors-Assortment-Resistor-Experiments/dp/B07BKRS4QZ/
+
+1x 10 KOHM 1/4 Watt resistor
+https://www.amazon.com/AUSTOR-Resistors-Assortment-Resistor-Experiments/dp/B07BKRS4QZ/
+
+2x 6mm x 6mm Tactile Buttons   
+https://www.amazon.com/Momentary-Tactile-Button-Switch-black/dp/B0796QHL5Z/
+
+1x 10uF 25V Capacitor
